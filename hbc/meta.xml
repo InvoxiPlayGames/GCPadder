@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>GCPadder</name>
+    <coder>InvoxiPlayGames</coder>
+    <version>1.0</version>
+    <release_date>20201210000000</release_date>
+    <short_description>Use GameCube controllers on PC</short_description>
+    <long_description>GCPadder is a utility that allows you to send your GameCube controller's inputs to your computer, either wirelessly or using a USB Gecko. (Performance is best on a stable ethernet connection or a USB Gecko.)
+Read more information and download the corresponding PC application from https://github.com/InvoxiPlayGames/GCPadder
+
+THIS IS INCOMPATIBLE WITH WIIS WITHOUT GAMECUBE PORTS. (Obviously!)</long_description>
+</app>
